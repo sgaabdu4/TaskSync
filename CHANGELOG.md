@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## TaskSync v2.0.20 (06-09-26)
+- chore(deps): bump qs from 6.15.0 to 6.15.2 in /tasksync-chat (#1)
+- Bumps [qs](https://github.com/ljharb/qs) from 6.15.0 to 6.15.2.
+- - [Changelog](https://github.com/ljharb/qs/blob/main/CHANGELOG.md)
+- - [Commits](https://github.com/ljharb/qs/compare/v6.15.0...v6.15.2)
+- ---
+- updated-dependencies:
+- - dependency-name: qs
+-   dependency-version: 6.15.2
+-   dependency-type: indirect
+- ...
+- Signed-off-by: dependabot[bot] <support@github.com>
+- Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+
 ## TaskSync v2.0.19 (02-18-26)
 feat: extend response timeout to 4 hours and add 2-hour session warning
 - Extended response timeout configuration with new options at 150, 180, 210, and 240 minutes
